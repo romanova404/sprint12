@@ -1,5 +1,5 @@
-# https://romanova404.github.io/sprint-12/ v1.0.1
-Актуальная версия v1.0.1
+# https://romanova404.github.io/sprint-12/ v1.0.2
+Актуальная версия v1.0.2
 
 ### Сборки(настройки можно посмотреть в package.json - "scripts")
 
